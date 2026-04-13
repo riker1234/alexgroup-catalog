@@ -1,0 +1,43 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Object {
+  id          Int      @id @default(autoincrement())
+  title       String
+  slug        String   @unique
+  price       Int
+  area        Float
+  floors      Int
+  bedrooms    Int
+  rooms       Int
+  material    String
+  description String
+
+  image1      String?
+  image2      String?
+  image3      String?
+  image4      String?
+  image5      String?
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  leads       Lead[]
+}
+
+model Lead {
+  id        Int      @id @default(autoincrement())
+  name      String
+  phone     String
+  message   String?
+  status    String   @default("new")
+  objectId  Int
+  object    Object   @relation(fields: [objectId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+}
