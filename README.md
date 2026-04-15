@@ -234,6 +234,5 @@ npx prisma generate
 ### Видео-гайды, они на английском, но если прогнать через нейронку, то норм
 * [Видео для новичков в использовании Next.js](https://www.youtube.com/watch?v=E5navVnmHJE)
 * [Видео по призме](https://www.youtube.com/watch?v=QXxy8Uv1LnQ)
-####### [Chat GPT](https://chatgpt.com)
 ---
 
