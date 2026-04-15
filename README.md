@@ -219,6 +219,8 @@ npx prisma generate
 
 ### [Документация](https://www.postgresql.org/docs/)
 
+---
+
 ### Fullstack разработка
 * отказ от CMS
 * построение backend внутри Next.js
@@ -226,6 +228,7 @@ npx prisma generate
 
 ##Гайды, которые помогали:
 
+### [Chat GPT](https://chatgpt.com)
 ### [Инструкция по построению fullstck приложения на next.js с использованием App Router ](https://www.nextsaaspilot.com/blogs/nextjs-tutorial)
 ### [Гайд по построению fullstck приложения с использованием Next.js, Prisma, and Postgres ](https://vercel.com/guides/nextjs-prisma-postgres)
 ### [Гайды по призме](https://www.prisma.io/docs/guides/nextjs)
