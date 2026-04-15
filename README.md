@@ -194,7 +194,7 @@ npx prisma generate
 * API Routes
 * динамические маршруты
 
-[Документация 1](https://nextjs.org/docs) и [Документация 2](https://nextjs.org/docs/app)
+### [Документация 1](https://nextjs.org/docs) и [Документация 2](https://nextjs.org/docs/app)
 ---
 
 ### React
@@ -203,21 +203,21 @@ npx prisma generate
 * управление состоянием
 * формы
 
-[Документация](https://react.dev)
+### [Документация](https://react.dev)
 ---
 ### Prisma
 * схема базы данных
 * миграции
 * CRUD операции
 
-[Документация](https://www.prisma.io/docs)
+### [Документация](https://www.prisma.io/docs)
 ---
 
 ### PostgreSQL
 * работа с базой данных
 * структура таблиц
 
-[Документация](https://www.postgresql.org/docs/)
+### [Документация](https://www.postgresql.org/docs/)
 
 ### Fullstack разработка
 * отказ от CMS
