@@ -226,9 +226,9 @@ npx prisma generate
 
 ##Гайды, которые помогали:
 
-###[Инструкция по построению fullstck приложения на next.js с использованием App Router ](https://www.nextsaaspilot.com/blogs/nextjs-tutorial)
-###[Гайд по построению fullstck приложения с использованием Next.js, Prisma, and Postgres ](https://vercel.com/guides/nextjs-prisma-postgres)
-###[Гайды по призме](https://www.prisma.io/docs/guides/nextjs)
+### [Инструкция по построению fullstck приложения на next.js с использованием App Router ](https://www.nextsaaspilot.com/blogs/nextjs-tutorial)
+### [Гайд по построению fullstck приложения с использованием Next.js, Prisma, and Postgres ](https://vercel.com/guides/nextjs-prisma-postgres)
+### [Гайды по призме](https://www.prisma.io/docs/guides/nextjs)
 ### Видео-гайды, они на английском, но если прогнать через нейронку, то норм
 *[Видео для новичков в использовании Next.js](https://www.youtube.com/watch?v=E5navVnmHJE)
 *[Видео по призме](https://www.youtube.com/watch?v=QXxy8Uv1LnQ)
